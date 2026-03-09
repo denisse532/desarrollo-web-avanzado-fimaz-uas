@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 class Usuario{
     private $nombre;
@@ -20,3 +21,5 @@ class Usuario{
     }
     
 }
+=======
+>>>>>>> 3d888fe (Actualizar archivos practica 1)
