@@ -3,7 +3,7 @@
 #objetivo
 En esta practica es aplicar lo que aprendimos de la creacion de clases y los encapsulamientos en php
 
-#Descripción de la clase creada
+##Descripción de la clase creada
 En la clase se creo el Usuario,  en el usuario puse los atributos privados:
 -nombre 
 -correo
