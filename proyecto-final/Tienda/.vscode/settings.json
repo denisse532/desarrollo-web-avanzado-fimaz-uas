@@ -1,0 +1,8 @@
+{
+    "docwriter.style": "Auto-detect",
+    "docwriter.language": "Spanish",
+    "docwriter.progress.trackTypes": true,
+    "docwriter.progress.trackClasses": true,
+    "docwriter.progress.trackFunctions": true,
+    "docwriter.progress.trackMethods": true
+}
