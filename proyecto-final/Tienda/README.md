@@ -192,44 +192,34 @@ http://localhost/Tienda/api/productos
 # Estructura del Proyecto
 
 Tienda
-│
-├── config/
-│   ├── Autoload.php
-│   └── Database.php
-│
-├── controllers/
-│   ├── ApiController.php
-│   ├── AuthController.php
-│   ├── ProductoController.php
-│   └── PublicController.php
-│
-├── models/
-│   ├── LogModel.php
-│   ├── ProductoModel.php
-│   └── UsuarioModel.php
-│
-├── views/
-│   ├── auth/
-│   │   └── login.php
-│   │
-│   ├── img/
-│   │
-│   ├── layouts/
-│   │   ├── footer.php
-│   │   └── header.php
-│   │
-│   ├── productos/
-│   │   ├── create.php
-│   │   ├── edit.php
-│   │   └── index.php
-│   │
-│   └── public/
-│       └── catalogo.php
-│
-├── .htaccess
-├── database.sql
-└── index.php
-
+   config/
+      Autoload.php
+      Database.php 
+   controllers/
+      ApiController.php
+      AuthController.php
+      ProductoController.php
+      PublicController.php
+   models/
+      LogModel.php
+      ProductoModel.php
+      UsuarioModel.php
+   views/
+     auth/
+       login.php
+   img/
+   layouts/
+       footer.php
+       header.php
+   productos/
+       create.php
+       edit.php
+       index.php
+   public/
+       catalogo.php
+.htaccess
+database.sql
+index.php
 
 # Seguridad
 
